@@ -1,5 +1,5 @@
 # Android 开发
-=============
+
 ## 开发环境搭建
 - [安装 ADT](https://developer.android.com/sdk/installing/installing-adt.html)
 - [配置 SDK](https://developer.android.com/sdk/installing/adding-packages.html)
