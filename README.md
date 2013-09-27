@@ -117,3 +117,9 @@
 
 - [Content Provider](http://developer.android.com/reference/android/content/ContentProvider.html)
 
+## 常用库
+- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) 滑动菜单
+- [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) ViewPager 指示器
+- [achartengine](https://code.google.com/p/achartengine/) 图表引擎
+- [ActionBarSherlock](http://actionbarsherlock.com/) ActionBar 兼容
+- [PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) 下拉加载
