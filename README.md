@@ -4,6 +4,7 @@
 - [安装 ADT](https://developer.android.com/sdk/installing/installing-adt.html)
 - [配置 SDK](https://developer.android.com/sdk/installing/adding-packages.html)
 - [Ant 编译环境与常用 Ant 命令](https://developer.android.com/tools/building/building-cmdline.html)
+- [混淆器](http://developer.android.com/tools/help/proguard.html)
 
 ## 常用开发工具
 - [Android Debug Bridge (ADB)](https://developer.android.com/tools/help/adb.html)
@@ -11,6 +12,10 @@
 - [Hierarchy Viewer](https://developer.android.com/tools/debugging/debugging-ui.html)
 - [使用 logcat 察看日志](https://developer.android.com/tools/help/logcat.html)
 - [绘制9点图](https://developer.android.com/tools/help/draw9patch.html)
+- 逆向工程
+	- [android-apktool/](https://code.google.com/p/android-apktool/)
+	- [dex2jar](https://code.google.com/p/dex2jar/)
+	- [JD-GUI](http://java.decompiler.free.fr/)
 
 ## 四大基本组件
 - [Activity](http://developer.android.com/reference/android/app/Activity.html)
@@ -123,3 +128,11 @@
 - [achartengine](https://code.google.com/p/achartengine/) 图表引擎
 - [ActionBarSherlock](http://actionbarsherlock.com/) ActionBar 兼容
 - [PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) 下拉加载
+
+
+## 常用简写
+|简写|全拼|备注|
+|---|---|---|
+|DDMS|Dalvik Debug Monitor Server|Dalvik调试监控服务器|
+|ADB|Android Debug Bridge|Android调试桥|
+|NDK|Native Development Kit|Native开发工具包，可以跨平台运行|
