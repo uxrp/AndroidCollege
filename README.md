@@ -12,6 +12,7 @@
 - [Hierarchy Viewer](https://developer.android.com/tools/debugging/debugging-ui.html)
 - [使用 logcat 察看日志](https://developer.android.com/tools/help/logcat.html)
 - [绘制9点图](https://developer.android.com/tools/help/draw9patch.html)
+- [Lint清理无效的资源](http://tools.android.com/tips/lint)
 - 逆向工程
 	- [android-apktool/](https://code.google.com/p/android-apktool/)
 	- [dex2jar](https://code.google.com/p/dex2jar/)
