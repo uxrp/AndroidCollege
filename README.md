@@ -7,6 +7,7 @@
 - [混淆器](http://developer.android.com/tools/help/proguard.html)
 
 ## 常用开发工具
+- [genymotion 更快的虚拟机](http://www.genymotion.com/)
 - [Android Debug Bridge (ADB)](https://developer.android.com/tools/help/adb.html)
 - [使用 DDMS](https://developer.android.com/tools/debugging/ddms.html)
 - [Hierarchy Viewer](https://developer.android.com/tools/debugging/debugging-ui.html)
